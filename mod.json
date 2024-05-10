@@ -1,0 +1,9 @@
+{
+	"geode": "2.0.0-beta.26",
+	"gd": "2.204",
+	"version": "v1.0.0-beta.1",
+	"id": "whitepoint.focus_mode",
+	"name": "Focus Mode",
+	"developer": "WhitePoint",
+	"description": "Turns off the visibility for several objects in Main Menu"
+}
