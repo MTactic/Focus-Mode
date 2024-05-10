@@ -8,7 +8,7 @@ I would like to change the implementation of some functions, but right now this 
 
 TO-DO:
 
-[ ] Add CreatorLayer to hide buttons, except creator, search and saved
-[ ] Add boolean configs to hide or show buttons like Settings, Geode, or profile, etc.
-[ ] Handle the getChildByID better.
-[ ] Handle the setVisible() better.
+- [ ] Add CreatorLayer to hide buttons, except creator, search and saved
+- [ ] Add boolean configs to hide or show buttons like Settings, Geode, or profile, etc.
+- [ ] Handle the getChildByID better.
+- [ ] Handle the setVisible() better.
